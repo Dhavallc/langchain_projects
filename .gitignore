@@ -5,9 +5,9 @@ venv/
 # Ignore Python cache files
 __pycache__/
 *.pyc
-
+12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf
 # Ignore environment variable files
 .env
 requirements2.txt/
-
+Chat-1.pdf
 requirements2.txt
