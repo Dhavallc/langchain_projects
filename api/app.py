@@ -47,7 +47,6 @@ add_routes(
     prompt1|model,
     path="/essay"
 
-
 )
 
 add_routes(
